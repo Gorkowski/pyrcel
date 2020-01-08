@@ -1,0 +1,17 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "ignore"
+    ],
+    "spellright.parserByClass": {
+        "ignore": {
+            "parser": "markdown"
+        }
+    },
+    "python.pythonPath": "C:\\Users\\253393\\AppData\\Local\\Continuum\\anaconda3\\envs\\Pyrcel_clean\\python.exe"
+}

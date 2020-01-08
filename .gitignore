@@ -1,3 +1,6 @@
+# files for testing and building new functionality 
+development_folder/
+
 # Compiled files
 ################
 *.pyc
